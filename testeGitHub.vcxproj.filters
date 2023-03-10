@@ -21,5 +21,8 @@
     <ClCompile Include="classe.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="ficheiroBranchBriga.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
